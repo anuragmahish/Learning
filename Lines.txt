@@ -3,3 +3,4 @@ second line
 third line
 duplicate line 1
 fourth line
+fifth line
